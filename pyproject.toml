@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_memeplex_dalle"
+description = "You can use memeplex and DALL-E thru ComfyUI. You need API keys."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/shi3z/ComfyUI_Memeplex_DALLE"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Memeplex_DALLE"
+Icon = ""
